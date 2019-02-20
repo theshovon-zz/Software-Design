@@ -1,0 +1,3 @@
+Severity,Class,Line,Column,Title,Description,Rule ID,Severity Score
+Warning,TEST_ACCOUNT,17,155,Creation procedure is exported,"The creation procedure 'make' is exported and may still be called after the object has been created.",CA013,50
+Warning,TEST_ACCOUNT,117,2488,Variable not read after assignment,The value attached to the local variable today by the creation instruction is never read.,CA020,70
