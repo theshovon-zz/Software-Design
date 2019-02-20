@@ -1,0 +1,8 @@
+Severity,Class,Line,Column,Title,Description,Rule ID,Severity Score
+Hint,BASIC_NODE,94,0,TODO,--,CA080,60
+Hint,BASIC_NODE,217,0,TODO,--,CA080,60
+Hint,BASIC_NODE,228,0,TODO,--,CA080,60
+Hint,BASIC_NODE,242,0,TODO,--,CA080,60
+Hint,BASIC_NODE,263,0,TODO,--,CA080,60
+Hint,BASIC_NODE,273,0,TODO,--,CA080,60
+Hint,BASIC_NODE,120,2406,Unneeded helper variable,"The local variable 'l_tuple' used here can be replaced by the expression that this variable gets assigned before. Thus the local variable is not actually needed.",CA085,40
